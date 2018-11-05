@@ -34,7 +34,7 @@ namespace BOL.Validations
          
                   //  path = path.Substring(0, path.Length-14) + "\\BLL\\bin\\Debug\\BLL.dll";
                 //@"S:\חני ולדר\manageTasks\server\BLL\bin\Debug\BLL.dll"
-                Assembly assembly = Assembly.LoadFrom(@"S:\חני ולדר\manageTasks\webAPI-tasks\BLL\bin\Debug\BLL.dll");
+                Assembly assembly = Assembly.LoadFrom(@"C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\BLL.dll");
 
                 //2. Get 'UserService' type
                 Type userServiceType = assembly.GetTypes().First(t => t.Name.Equals("LogicManager"));

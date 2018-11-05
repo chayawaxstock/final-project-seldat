@@ -281,15 +281,6 @@ C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-task
 C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\BLL.dll
 C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\BOL.dll
-C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\Google.Protobuf.dll
-C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\MySql.Data.dll
-C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\Newtonsoft.Json.dll
-C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\System.Net.Http.Formatting.dll
-C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\System.Web.Cors.dll
-C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\System.Web.Http.Cors.dll
-C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\System.Web.Http.dll
-C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\System.Web.Http.WebHost.dll
 C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\DAL.dll
 C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\BLL.pdb
 C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\webAPI-tasks\bin\BOL.pdb

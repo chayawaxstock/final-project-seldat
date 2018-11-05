@@ -66,7 +66,6 @@ import { WorkerToTeamLeaderComponent } from './worker-to-team-leader/worker-to-t
 import { TasksOfWorkerComponent } from './tasks-of-worker/tasks-of-worker.component';
 import { WorkerProjectTemplateComponent } from './worker-project-template/worker-project-template.component';
 import { ProjectDetailsComponent } from './project-details/project-details.component';
-import { ProjectDetailsTempComponent } from './project-details-temp/project-details-temp.component';
 import { ProjectDetailsTemplateComponent } from './project-details-template/project-details-template.component';
 
 
@@ -102,7 +101,6 @@ import { ProjectDetailsTemplateComponent } from './project-details-template/proj
     TasksOfWorkerComponent,
     WorkerProjectTemplateComponent,
     ProjectDetailsComponent,
-    ProjectDetailsTempComponent,
     ProjectDetailsTemplateComponent
   ],
   imports: [
