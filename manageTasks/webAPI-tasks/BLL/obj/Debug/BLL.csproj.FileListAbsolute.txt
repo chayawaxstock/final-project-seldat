@@ -44,3 +44,20 @@ F:\!לחיה בהנאה\manageTasks\webAPI-tasks\BLL\bin\Debug\Google.Protobuf.x
 F:\!לחיה בהנאה\manageTasks\webAPI-tasks\BLL\bin\Debug\MySql.Data.xml
 S:\חני ולדר\manageTasks\webAPI-tasks\BLL\bin\Debug\System.Web.Http.dll
 S:\חני ולדר\manageTasks\webAPI-tasks\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\BLL.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\BLL.pdb
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\BOL.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\MySql.Data.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\System.Web.Http.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\BOL.pdb
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\Google.Protobuf.xml
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\MySql.Data.xml
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\System.Web.Http.xml
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\obj\Debug\BLL.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\BLL\obj\Debug\BLL.pdb

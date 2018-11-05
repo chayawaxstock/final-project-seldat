@@ -29,3 +29,12 @@ F:\!לחיה בהנאה\manageTasks\webAPI-tasks\DAL\obj\Debug\DAL.csprojResolve
 F:\!לחיה בהנאה\manageTasks\webAPI-tasks\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 F:\!לחיה בהנאה\manageTasks\webAPI-tasks\DAL\obj\Debug\DAL.dll
 F:\!לחיה בהנאה\manageTasks\webAPI-tasks\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\DAL\bin\Debug\MySql.Data.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\DAL\bin\Debug\Google.Protobuf.xml
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\DAL\bin\Debug\MySql.Data.xml
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\webAPI-tasks\DAL\obj\Debug\DAL.pdb
