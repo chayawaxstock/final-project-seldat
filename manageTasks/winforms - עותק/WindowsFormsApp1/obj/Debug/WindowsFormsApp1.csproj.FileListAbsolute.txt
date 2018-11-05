@@ -1,0 +1,8 @@
+S:\חני ולדר\manageTasks\winforms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+S:\חני ולדר\manageTasks\winforms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+S:\חני ולדר\manageTasks\winforms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+S:\חני ולדר\manageTasks\winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+S:\חני ולדר\manageTasks\winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+S:\חני ולדר\manageTasks\winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+S:\חני ולדר\manageTasks\winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+S:\חני ולדר\manageTasks\winforms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

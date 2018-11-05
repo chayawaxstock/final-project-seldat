@@ -1,0 +1,145 @@
+-- ****************** SqlDBM: MySQL ******************;
+-- ***************************************************;
+
+DROP TABLE `PresentDay`;
+
+
+DROP TABLE `ProjectWorker`;
+
+
+DROP TABLE `HourForDepartment`;
+
+
+DROP TABLE `Project`;
+
+
+DROP TABLE `User`;
+
+
+DROP TABLE `Department`;
+
+
+
+-- ************************************** `Department`
+
+CREATE TABLE `Department`
+(
+ `id`         INT NOT NULL AUTO_INCREMENT ,
+ `department` NVARCHAR(15) NOT NULL ,
+
+PRIMARY KEY (`id`)
+);
+
+
+
+
+
+
+-- ************************************** `User`
+
+CREATE TABLE `User`
+(
+ `id`               INT NOT NULL AUTO_INCREMENT ,
+ `userName`         NVARCHAR(15) NOT NULL ,
+ `userComputer`     NVARCHAR(15) ,
+ `password`         NVARCHAR(15) NOT NULL ,
+ `departmentUserId` INT NOT NULL ,
+ `email`            NVARCHAR(15) NOT NULL ,
+ `numHourWork`      DECIMAL NOT NULL ,
+ `managerId`        INT ,
+
+PRIMARY KEY (`id`),
+KEY `fkIdx_133` (`departmentUserId`),
+CONSTRAINT `FK_133` FOREIGN KEY `fkIdx_133` (`departmentUserId`) REFERENCES `Department` (`id`),
+KEY `fkIdx_182` (`managerId`),
+CONSTRAINT `FK_182` FOREIGN KEY `fkIdx_182` (`managerId`) REFERENCES `User` (`id`)
+);
+
+
+
+
+
+
+-- ************************************** `Project`
+
+CREATE TABLE `Project`
+(
+ `projectId`    INT NOT NULL AUTO_INCREMENT ,
+ `numHour`      DECIMAL NOT NULL ,
+ `name`         NVARCHAR(15) NOT NULL ,
+ `dateBegin`    DATE NOT NULL ,
+ `dateEnd`      DATE NOT NULL ,
+ `isFinish`     BIT NOT NULL ,
+ `customerName` NVARCHAR(15) NOT NULL ,
+ `managerId`    INT NOT NULL ,
+
+PRIMARY KEY (`projectId`),
+KEY `fkIdx_157` (`managerId`),
+CONSTRAINT `FK_157` FOREIGN KEY `fkIdx_157` (`managerId`) REFERENCES `User` (`id`)
+);
+
+
+
+
+
+
+-- ************************************** `PresentDay`
+
+CREATE TABLE `PresentDay`
+(
+ `projectId` INT NOT NULL ,
+ `userId`    INT NOT NULL ,
+ `timeBegin` DATETIME NOT NULL ,
+ `timeEnd`   DATETIME NOT NULL ,
+ `sumHours`  DECIMAL NOT NULL ,
+
+PRIMARY KEY (`projectId`, `userId`),
+KEY `fkIdx_194` (`projectId`),
+CONSTRAINT `FK_194` FOREIGN KEY `fkIdx_194` (`projectId`) REFERENCES `Project` (`projectId`),
+KEY `fkIdx_197` (`userId`),
+CONSTRAINT `FK_197` FOREIGN KEY `fkIdx_197` (`userId`) REFERENCES `User` (`id`)
+);
+
+
+
+
+
+
+-- ************************************** `ProjectWorker`
+
+CREATE TABLE `ProjectWorker`
+(
+ `projectId` INT NOT NULL ,
+ `id`        INT NOT NULL ,
+
+PRIMARY KEY (`projectId`, `id`),
+KEY `fkIdx_151` (`projectId`),
+CONSTRAINT `FK_151` FOREIGN KEY `fkIdx_151` (`projectId`) REFERENCES `Project` (`projectId`),
+KEY `fkIdx_185` (`id`),
+CONSTRAINT `FK_185` FOREIGN KEY `fkIdx_185` (`id`) REFERENCES `User` (`id`)
+);
+
+
+
+
+
+
+-- ************************************** `HourForDepartment`
+
+CREATE TABLE `HourForDepartment`
+(
+ `projectId`    INT NOT NULL ,
+ `departmentId` INT NOT NULL ,
+ `sumHours`     DECIMAL NOT NULL ,
+
+PRIMARY KEY (`projectId`, `departmentId`),
+KEY `fkIdx_160` (`projectId`),
+CONSTRAINT `FK_160` FOREIGN KEY `fkIdx_160` (`projectId`) REFERENCES `Project` (`projectId`),
+KEY `fkIdx_172` (`departmentId`),
+CONSTRAINT `FK_172` FOREIGN KEY `fkIdx_172` (`departmentId`) REFERENCES `Department` (`id`)
+);
+
+
+
+
+

@@ -1,0 +1,596 @@
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.csprojAssemblyReference.cache
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.Login.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.Properties.Resources.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.csproj.GenerateResource.cache
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.csproj.CoreCompileInputs.cache
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\manageTask.exe.config
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\manageTask.exe
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\manageTask.pdb
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Newtonsoft.Json.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.csproj.CopyComplete
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.exe
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.pdb
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.Main.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.AddWorker.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.DeleteWorker.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.SetPermission.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.EditWorker.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.AffiliationWorksToTeamLeader.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.TeamLeader.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.CompanyWorker.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.AddWorkerToProject.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.Common.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.Design.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.SqlServer.Types.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\EnvDTE.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\stdole.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\EnvDTE80.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.Build.Tasks.Core.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\VSLangProj.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\VSLangProj80.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\System.Threading.Tasks.Dataflow.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.MSXML.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.Build.Utilities.Core.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.Build.Framework.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\VSLangProj2.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.exe.config
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\manageTask.exe.config
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\manageTask.exe
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\manageTask.pdb
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\EnvDTE.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\stdole.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\EnvDTE80.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\VSLangProj.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\VSLangProj80.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.MSXML.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\VSLangProj2.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csprojAssemblyReference.cache
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.exe.config
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AddWorker.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AddWorkerToProject.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AffiliationWorksToTeamLeader.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.CompanyWorker.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.DeleteWorker.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.EditWorker.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Login.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Main.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Manager.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Properties.Resources.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.SetPermission.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.TeamLeader.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csproj.GenerateResource.cache
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csproj.CoreCompileInputs.cache
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csproj.CopyComplete
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.exe
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.pdb
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AddProject.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Reports.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.EditHoursForWorker.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.GraphHoursStatus.resources
+C:\Users\tovaw\Downloads\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.ProjectDetails.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\manageTask.exe.config
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\manageTask.exe
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\manageTask.pdb
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Newtonsoft.Json.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\EnvDTE.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\stdole.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\EnvDTE80.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\VSLangProj.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\VSLangProj80.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.MSXML.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.Build.Framework.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\VSLangProj2.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csprojAssemblyReference.cache
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.exe.config
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AddProject.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AddWorker.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AddWorkerToProject.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AffiliationWorksToTeamLeader.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.CompanyWorker.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.CompanyWorkerTasks.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.ContactManager.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.DeleteWorker.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.EditHoursForWorker.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.EditWorker.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.GraphHoursStatus.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.GraphHoursStatusCompanyWorker.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Login.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Main.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Manager.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.ProjectDetails.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Properties.Resources.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Reports.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.SetPermission.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.SetTime.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.TeamLeader.resources
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csproj.GenerateResource.cache
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csproj.CoreCompileInputs.cache
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csproj.CopyComplete
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.exe
+F:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.pdb
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\manageTask.exe.config
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\manageTask.exe
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\manageTask.pdb
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Newtonsoft.Json.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.ChartView.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.GridView.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.PdfViewer.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.PivotGrid.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadChart.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadDiagram.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadDock.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadMap.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Scheduler.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.SpellChecker.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Material.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.MaterialPink.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.UI.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Core.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Flow.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Zip.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\TelerikCommon.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\TelerikData.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\TelerikExport.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\EnvDTE.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.mshtml.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\stdole.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\EnvDTE80.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\VSLangProj.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\VSLangProj80.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.MSXML.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.Build.Framework.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\VSLangProj2.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.ChartView.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.GridView.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.PdfViewer.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.PivotGrid.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadChart.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadDiagram.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadDock.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadMap.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadSpreadsheet.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll.config
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Scheduler.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.SpellChecker.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.UI.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Core.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Flow.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.Windows.Zip.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\TelerikData.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\TelerikExport.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csprojAssemblyReference.cache
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.exe.config
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AddProject.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AddWorker.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AddWorkerToProject.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.AffiliationWorksToTeamLeader.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.CompanyWorker.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.CompanyWorkerTasks.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.ContactManager.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.DeleteWorker.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.EditHoursForWorker.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.EditWorker.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.GraphHoursStatus.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.GraphHoursStatusCompanyWorker.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Login.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Main.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.ProjectDetails.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Properties.Resources.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.Reports.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.SetPermission.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.SetTime.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.TeamLeader.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csproj.GenerateResource.cache
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csproj.CoreCompileInputs.cache
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.csproj.CopyComplete
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.exe
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.pdb
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.ShapedForm1.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.exe.licenses
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.RadRibbonForm1.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.b.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\obj\Debug\manageTask.RadForm1.resources
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+E:\managmentTask\manageTasks1-master\manageTasks1-master\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.ChartView.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.GridView.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.PdfViewer.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.PivotGrid.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadChart.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadDiagram.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadDock.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadMap.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Scheduler.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.SpellChecker.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Material.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.MaterialPink.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.UI.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Core.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Flow.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Zip.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\TelerikCommon.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\TelerikData.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\TelerikExport.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Microsoft.mshtml.dll
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.ChartView.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.GridView.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.PdfViewer.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.PivotGrid.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadChart.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadDiagram.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadDock.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadMap.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadSpreadsheet.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll.config
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.Scheduler.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.SpellChecker.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.WinControls.UI.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Core.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Flow.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\Telerik.Windows.Zip.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\TelerikData.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\bin\Debug\TelerikExport.xml
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.AddProject.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.CompanyWorkerTasks.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.ContactManager.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.EditHoursForWorker.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.GraphHoursStatus.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.GraphHoursStatusCompanyWorker.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.b.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.ProjectDetails.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.RadForm1.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.RadRibbonForm1.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.Reports.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.SetTime.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.ShapedForm1.resources
+S:\חני ולדר\manageTasks\winforms\manageTask\obj\Debug\manageTask.exe.licenses

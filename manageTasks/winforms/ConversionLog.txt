@@ -1,0 +1,486 @@
+S:\חני ולדר\manageTasks\winforms\manageTask\AddProject.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\AddProject.Designer.cs
+private System.Windows.Forms.GroupBox groupBox3;
+Changed System.Windows.Forms.GroupBox with Telerik.WinControls.UI.RadGroupBox
+private System.Windows.Forms.NumericUpDown txt_num_hors;
+Changed System.Windows.Forms.NumericUpDown with Telerik.WinControls.UI.RadSpinEditor
+private System.Windows.Forms.GroupBox groupBox4;
+Changed System.Windows.Forms.GroupBox with Telerik.WinControls.UI.RadGroupBox
+private System.Windows.Forms.NumericUpDown txt_qa;
+Changed System.Windows.Forms.NumericUpDown with Telerik.WinControls.UI.RadSpinEditor
+private System.Windows.Forms.NumericUpDown txt_development;
+Changed System.Windows.Forms.NumericUpDown with Telerik.WinControls.UI.RadSpinEditor
+private System.Windows.Forms.NumericUpDown txt_ui;
+Changed System.Windows.Forms.NumericUpDown with Telerik.WinControls.UI.RadSpinEditor
+private System.Windows.Forms.NumericUpDown txt_ux;
+Changed System.Windows.Forms.NumericUpDown with Telerik.WinControls.UI.RadSpinEditor
+private System.Windows.Forms.Label lbl_ux;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_qa;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_development;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_ui;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.DateTimePicker dateTimeEnd;
+Changed System.Windows.Forms.DateTimePicker with Telerik.WinControls.UI.RadDateTimePicker
+private System.Windows.Forms.DateTimePicker dateTimeBegin;
+Changed System.Windows.Forms.DateTimePicker with Telerik.WinControls.UI.RadDateTimePicker
+private System.Windows.Forms.Button btn_add_project;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.Label lbl_teamleaders;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.ComboBox cmbx_team_leader;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label lbl_date_end;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_date_begin;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_customer;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_num_hours;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.TextBox txt_customer;
+Changed System.Windows.Forms.TextBox with Telerik.WinControls.UI.RadTextBox
+private System.Windows.Forms.TextBox txt_name;
+Changed System.Windows.Forms.TextBox with Telerik.WinControls.UI.RadTextBox
+private System.Windows.Forms.Label lbl_name;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+this.btn_add_project.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.txt_ui.ValueChanged += new System.EventHandler(this.numericUpDown4_ValueChanged)
+Changed this.numericUpDown4_ValueChanged
+this.btn_add_project.Click += new System.EventHandler(this.btn_add_project_Click)
+Changed this.btn_add_project_Click
+
+S:\חני ולדר\manageTasks\winforms\manageTask\AddWorker.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\AddWorker.Designer.cs
+private System.Windows.Forms.Label lbl_name;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_password;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_email;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_numHourWork;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_department;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.TextBox txt_name;
+Changed System.Windows.Forms.TextBox with Telerik.WinControls.UI.RadTextBox
+private System.Windows.Forms.TextBox txt_email;
+Changed System.Windows.Forms.TextBox with Telerik.WinControls.UI.RadTextBox
+private System.Windows.Forms.TextBox txt_password;
+Changed System.Windows.Forms.TextBox with Telerik.WinControls.UI.RadTextBox
+private System.Windows.Forms.NumericUpDown num_numHours;
+Changed System.Windows.Forms.NumericUpDown with Telerik.WinControls.UI.RadSpinEditor
+private System.Windows.Forms.ComboBox cmbx_department;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Button btn_add;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.ComboBox cmbx_teamLeader;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label lbl_team_leader;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+this.btn_add.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.cmbx_department.SelectedIndexChanged += new System.EventHandler(this.cmbx_department_SelectedIndexChanged)
+Changed this.cmbx_department_SelectedIndexChanged
+this.btn_add.Click += new System.EventHandler(this.btn_add_Click)
+Changed this.btn_add_Click
+
+S:\חני ולדר\manageTasks\winforms\manageTask\AddWorkerToProject.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\AddWorkerToProject.Designer.cs
+private System.Windows.Forms.Label lbl_worker;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.ComboBox cmbx_projects;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label lbl_project;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Button btn_addProjectToWorker;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.CheckedListBox checkedListBoxWorkers;
+Changed System.Windows.Forms.CheckedListBox with Telerik.WinControls.UI.RadCheckedListBox
+this.btn_addProjectToWorker.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.checkedListBoxWorkers.FormattingEnabled = true;
+Removed FormattingEnabled
+this.cmbx_projects.SelectedIndexChanged += new System.EventHandler(this.cmbx_projects_SelectedIndexChanged)
+Changed this.cmbx_projects_SelectedIndexChanged
+this.btn_addProjectToWorker.Click += new System.EventHandler(this.btn_addProjectToWorker_Click)
+Changed this.btn_addProjectToWorker_Click
+
+S:\חני ולדר\manageTasks\winforms\manageTask\AffiliationWorksToTeamLeader.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\AffiliationWorksToTeamLeader.Designer.cs
+private System.Windows.Forms.ComboBox cmbx_workers;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label lbl_name;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_team_leader;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.ComboBox cmbx_teamLeaders;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label lbl_n;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_team;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.ComboBox cmbx_worker;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.ComboBox cmbx_team;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Button btn_workerToTeamleader;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+this.btn_workerToTeamleader.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.cmbx_worker.SelectedIndexChanged += new System.EventHandler(this.cmbx_worker_SelectedIndexChanged)
+Changed this.cmbx_worker_SelectedIndexChanged
+this.btn_workerToTeamleader.Click += new System.EventHandler(this.btn_workerToTeamleader_Click)
+Changed this.btn_workerToTeamleader_Click
+
+S:\חני ולדר\manageTasks\winforms\manageTask\CompanyWorker.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\CompanyWorker.Designer.cs
+System.Windows.Forms.ToolStripItem[]
+Changed System.Windows.Forms.ToolStripItem with Telerik.WinControls.RadItem
+private System.Windows.Forms.MenuStrip menuStrip1;
+Changed System.Windows.Forms.MenuStrip with Telerik.WinControls.UI.RadMenu
+private System.Windows.Forms.ToolStripMenuItem setTimeToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem graphHoursStatusToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem cotactTheManagerToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem yourTasksToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+this.MainMenuStrip = this.menuStrip1;
+Removed MainMenuStrip
+this.setTimeToolStripMenuItem.Click += new System.EventHandler(this.setTimeToolStripMenuItem_Click)
+Changed this.setTimeToolStripMenuItem_Click
+this.graphHoursStatusToolStripMenuItem.Click += new System.EventHandler(this.graphHoursStatusToolStripMenuItem_Click)
+Changed this.graphHoursStatusToolStripMenuItem_Click
+this.cotactTheManagerToolStripMenuItem.Click += new System.EventHandler(this.cotactTheManagerToolStripMenuItem_Click)
+Changed this.cotactTheManagerToolStripMenuItem_Click
+this.yourTasksToolStripMenuItem.Click += new System.EventHandler(this.yourTasksToolStripMenuItem_Click)
+Changed this.yourTasksToolStripMenuItem_Click
+
+S:\חני ולדר\manageTasks\winforms\manageTask\CompanyWorkerTasks.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\CompanyWorkerTasks.Designer.cs
+private System.Windows.Forms.DataGridView dvg_worker_projects;
+Changed System.Windows.Forms.DataGridView with Telerik.WinControls.UI.RadGridView
+this.dvg_worker_projects.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+Removed ColumnHeadersHeightSizeMode
+
+S:\חני ולדר\manageTasks\winforms\manageTask\ContactManager.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\ContactManager.Designer.cs
+private System.Windows.Forms.Button btn_send_message;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.Label lbl_message;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.RichTextBox richTextBoxMessage;
+Changed System.Windows.Forms.RichTextBox with Telerik.WinControls.UI.RadRichTextEditor
+this.btn_send_message.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.btn_send_message.Click += new System.EventHandler(this.btn_send_message_Click)
+Changed this.btn_send_message_Click
+
+S:\חני ולדר\manageTasks\winforms\manageTask\DeleteWorker.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\DeleteWorker.Designer.cs
+private System.Windows.Forms.Label label1;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.ComboBox cmbx_workers;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label lbl_name;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+this.cmbx_workers.SelectedIndexChanged += new System.EventHandler(this.cmbx_workers_SelectedIndexChanged)
+Changed this.cmbx_workers_SelectedIndexChanged
+
+S:\חני ולדר\manageTasks\winforms\manageTask\EditHoursForWorker.cs
+
+Changed System.Windows.Forms.DataGridViewCellEventArgs with Telerik.WinControls.UI.GridViewCellEventArgs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\EditHoursForWorker.Designer.cs
+private System.Windows.Forms.DataGridView dgv_projectHours;
+Changed System.Windows.Forms.DataGridView with Telerik.WinControls.UI.RadGridView
+private System.Windows.Forms.Label lbl_worker;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.ComboBox cmbx_workers;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label label3;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+this.dgv_projectHours.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+Removed ColumnHeadersHeightSizeMode
+this.dgv_projectHours.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.Edit_hours)
+Changed this.Edit_hours
+this.cmbx_workers.SelectedIndexChanged += new System.EventHandler(this.cmbx_workers_SelectedIndexChanged)
+Changed this.cmbx_workers_SelectedIndexChanged
+
+S:\חני ולדר\manageTasks\winforms\manageTask\EditWorker.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\EditWorker.Designer.cs
+private System.Windows.Forms.ComboBox cmbx_workers;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label lbl_worker_name;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.GroupBox grpb_details;
+Changed System.Windows.Forms.GroupBox with Telerik.WinControls.UI.RadGroupBox
+private System.Windows.Forms.NumericUpDown numeric_num_hours_work;
+Changed System.Windows.Forms.NumericUpDown with Telerik.WinControls.UI.RadSpinEditor
+private System.Windows.Forms.TextBox txt_email;
+Changed System.Windows.Forms.TextBox with Telerik.WinControls.UI.RadTextBox
+private System.Windows.Forms.TextBox txt_name;
+Changed System.Windows.Forms.TextBox with Telerik.WinControls.UI.RadTextBox
+private System.Windows.Forms.Label label4;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label label3;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label label1;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Button btn_edit;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.Label lbl_department;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.ComboBox cmbx_department;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.ComboBox cmbx_teamleader;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label lbl_teamleader;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+this.btn_edit.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.cmbx_workers.SelectedIndexChanged += new System.EventHandler(this.cmbx_workers_SelectedIndexChanged)
+Changed this.cmbx_workers_SelectedIndexChanged
+this.btn_edit.Click += new System.EventHandler(this.btn_edit_Click)
+Changed this.btn_edit_Click
+
+S:\חני ולדר\manageTasks\winforms\manageTask\GraphHoursStatus.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\GraphHoursStatus.Designer.cs
+private System.Windows.Forms.Label label2;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+
+S:\חני ולדר\manageTasks\winforms\manageTask\GraphHoursStatusCompanyWorker.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\Login.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\Login.Designer.cs
+private System.Windows.Forms.Label lbl_name;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_password;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.TextBox txt_userName;
+Changed System.Windows.Forms.TextBox with Telerik.WinControls.UI.RadTextBox
+private System.Windows.Forms.TextBox txt_password;
+Changed System.Windows.Forms.TextBox with Telerik.WinControls.UI.RadTextBox
+private System.Windows.Forms.Button btn_signIn;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+this.btn_signIn.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.btn_signIn.Click += new System.EventHandler(this.btn_signIn_Click)
+Changed this.btn_signIn_Click
+
+S:\חני ולדר\manageTasks\winforms\manageTask\Main.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\Main.Designer.cs
+System.Windows.Forms.ToolStripItem[]
+Changed System.Windows.Forms.ToolStripItem with Telerik.WinControls.RadItem
+private System.Windows.Forms.Button btn_sign_in;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.Button btn_computer;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.MenuStrip menuStrip1;
+Changed System.Windows.Forms.MenuStrip with Telerik.WinControls.UI.RadMenu
+private System.Windows.Forms.ToolStripMenuItem loginToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem logOutToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.Label lbl_name;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+this.btn_sign_in.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.btn_computer.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.MainMenuStrip = this.menuStrip1;
+Removed MainMenuStrip
+this.btn_sign_in.Click += new System.EventHandler(this.btn_sign_in_Click)
+Changed this.btn_sign_in_Click
+this.btn_computer.Click += new System.EventHandler(this.btn_computer_Click)
+Changed this.btn_computer_Click
+this.logOutToolStripMenuItem.Click += new System.EventHandler(this.logOutToolStripMenuItem_Click)
+Changed this.logOutToolStripMenuItem_Click
+
+S:\חני ולדר\manageTasks\winforms\manageTask\Manager.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\Manager.Designer.cs
+System.Windows.Forms.ToolStripItem[]
+Changed System.Windows.Forms.ToolStripItem with Telerik.WinControls.RadItem
+System.Windows.Forms.ToolStripItem[]
+Changed System.Windows.Forms.ToolStripItem with Telerik.WinControls.RadItem
+private System.Windows.Forms.MenuStrip menuStrip1;
+Changed System.Windows.Forms.MenuStrip with Telerik.WinControls.UI.RadMenu
+private System.Windows.Forms.ToolStripMenuItem addProjectToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem managmentWorkersToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem editWorkersDetailsToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem setPermissionToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem deleteWorkerToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem addANewWorkerToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem addWorkerToProjectToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem addWorkerToATeamLeaderToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem reportsToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+this.managmentWorkersToolStripMenuItem.DropDownItems
+Changed this.managmentWorkersToolStripMenuItem.DropDownItems to Items
+this.MainMenuStrip = this.menuStrip1;
+Removed MainMenuStrip
+this.addProjectToolStripMenuItem.Click += new System.EventHandler(this.addProjectToolStripMenuItem_Click)
+Changed this.addProjectToolStripMenuItem_Click
+this.editWorkersDetailsToolStripMenuItem.Click += new System.EventHandler(this.editWorkersDetailsToolStripMenuItem_Click)
+Changed this.editWorkersDetailsToolStripMenuItem_Click
+this.setPermissionToolStripMenuItem.Click += new System.EventHandler(this.setPermissionToolStripMenuItem_Click)
+Changed this.setPermissionToolStripMenuItem_Click
+this.deleteWorkerToolStripMenuItem.Click += new System.EventHandler(this.deleteWorkerToolStripMenuItem_Click)
+Changed this.deleteWorkerToolStripMenuItem_Click
+this.addANewWorkerToolStripMenuItem.Click += new System.EventHandler(this.addANewWorkerToolStripMenuItem_Click)
+Changed this.addANewWorkerToolStripMenuItem_Click
+this.addWorkerToProjectToolStripMenuItem.Click += new System.EventHandler(this.addWorkerToProjectToolStripMenuItem_Click)
+Changed this.addWorkerToProjectToolStripMenuItem_Click
+this.addWorkerToATeamLeaderToolStripMenuItem.Click += new System.EventHandler(this.addWorkerToATeamLeaderToolStripMenuItem_Click)
+Changed this.addWorkerToATeamLeaderToolStripMenuItem_Click
+this.reportsToolStripMenuItem.Click += new System.EventHandler(this.RepotrsToolStripMenuItem_Click)
+Changed this.RepotrsToolStripMenuItem_Click
+
+S:\חני ולדר\manageTasks\winforms\manageTask\ProjectDetails.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\ProjectDetails.Designer.cs
+private System.Windows.Forms.GroupBox grbx_project_details;
+Changed System.Windows.Forms.GroupBox with Telerik.WinControls.UI.RadGroupBox
+private System.Windows.Forms.Label date_end_val;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label date_begin_val;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label hours_val;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label customer_val;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label name_val;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_date_end;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_date_begin;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_hours;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_customer;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_name;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.DataGridView dgv_project_details;
+Changed System.Windows.Forms.DataGridView with Telerik.WinControls.UI.RadGridView
+private System.Windows.Forms.Label lbl_projectName;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.ComboBox cmbx_projects;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label label1;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+this.dgv_project_details.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+Removed ColumnHeadersHeightSizeMode
+this.grbx_project_details.Enter += new System.EventHandler(this.grbx_project_details_Enter)
+Changed this.grbx_project_details_Enter
+this.cmbx_projects.SelectedIndexChanged += new System.EventHandler(this.cmbx_projects_SelectedIndexChanged)
+Changed this.cmbx_projects_SelectedIndexChanged
+
+S:\חני ולדר\manageTasks\winforms\manageTask\RadRibbonForm1.Designer.cs
+Telerik.WinControls.RadItem[]
+Changed Telerik.WinControls.RadItem with Telerik.WinControls.RadItem
+private System.Windows.Forms.Panel panel1;
+Changed System.Windows.Forms.Panel with Telerik.WinControls.UI.RadPanel
+
+S:\חני ולדר\manageTasks\winforms\manageTask\Reports.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\SetPermission.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\SetPermission.Designer.cs
+private System.Windows.Forms.ComboBox cmbx_workers;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label label1;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label label2;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.ComboBox cmbx_permission;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Label lbl_permission;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+this.cmbx_permission.SelectedIndexChanged += new System.EventHandler(this.cmbx_permission_SelectedIndexChanged)
+Changed this.cmbx_permission_SelectedIndexChanged
+
+S:\חני ולדר\manageTasks\winforms\manageTask\SetTime.cs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\SetTime.Designer.cs
+private System.Windows.Forms.Label lbl_clock;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Label lbl_name;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.ComboBox cmbx_projects;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Button btn_end;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.Button btn_start;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+this.btn_end.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.btn_start.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.cmbx_projects.SelectedIndexChanged += new System.EventHandler(this.cmbx_projects_SelectedIndexChanged)
+Changed this.cmbx_projects_SelectedIndexChanged
+this.btn_end.Click += new System.EventHandler(this.btn_end_Click)
+Changed this.btn_end_Click
+this.btn_start.Click += new System.EventHandler(this.btn_start_Click)
+Changed this.btn_start_Click
+this.timer1.Tick += new System.EventHandler(this.timer1_Tick)
+Changed this.timer1_Tick
+
+S:\חני ולדר\manageTasks\winforms\manageTask\ShapedForm1.Designer.cs
+private System.Windows.Forms.ComboBox comboBox1;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+
+S:\חני ולדר\manageTasks\winforms\manageTask\TeamLeader.cs
+
+Changed System.Windows.Forms.DataGridViewCellEventArgs with Telerik.WinControls.UI.GridViewCellEventArgs
+
+S:\חני ולדר\manageTasks\winforms\manageTask\TeamLeader.Designer.cs
+System.Windows.Forms.ToolStripItem[]
+Changed System.Windows.Forms.ToolStripItem with Telerik.WinControls.RadItem
+private System.Windows.Forms.MenuStrip menuStrip1;
+Changed System.Windows.Forms.MenuStrip with Telerik.WinControls.UI.RadMenu
+private System.Windows.Forms.ToolStripMenuItem projectsDetailsToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem graphHoursStatusToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem editHoursForWorkerToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+this.MainMenuStrip = this.menuStrip1;
+Removed MainMenuStrip
+this.projectsDetailsToolStripMenuItem.Click += new System.EventHandler(this.projectsDetailsToolStripMenuItem_Click_1)
+Changed this.projectsDetailsToolStripMenuItem_Click_1
+this.graphHoursStatusToolStripMenuItem.Click += new System.EventHandler(this.graphHoursStatusToolStripMenuItem_Click_1)
+Changed this.graphHoursStatusToolStripMenuItem_Click_1
+this.editHoursForWorkerToolStripMenuItem.Click += new System.EventHandler(this.editHoursForWorkerToolStripMenuItem_Click_1)
+Changed this.editHoursForWorkerToolStripMenuItem_Click_1
+this.radPanorama1.Click += new System.EventHandler(this.radPanorama1_Click)
+Changed this.radPanorama1_Click
+
