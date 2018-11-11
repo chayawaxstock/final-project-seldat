@@ -1,7 +1,30 @@
+<div class="cd-faq-items">
+    <ul id="info" class="cd-faq-group">
 
-
-<div><strong>name</strong>{{project.projectName}}</div>
-<div><strong>customer</strong>{{project.customer}}</div>
-<div><strong>num hours</strong>{{project.numHours}}</div>
-<div><strong>date begin</strong>{{project.dateBegin}}</div>
-<div><strong>date end</strong>{{project.dateEnd}}</div>
+        <li>
+            <div><strong>name</strong>{{project.projectName}}</div>
+        </li>
+        <li>
+            <div><strong>customer</strong>{{project.customer}}</div>
+        </li>
+        <li>
+            <div><strong>num hours</strong>{{project.numHours}}</div>
+        </li>
+        <li>
+            <div><strong>date begin</strong>{{project.dateBegin}}</div>
+        </li>
+        <li>
+            <div><strong>date end</strong>{{project.dateEnd}}</div>
+        </li>
+    </ul>
+         <div class="cd-faq-trigger" id={{project.projectId}} (click)="showMoreDetails($event)">more details
+            <div *ngIf="workersForProject"> 
+                <!-- <ul *ngFor="let item of workersForProject">
+                    <li><b>name:</b> {{item.userWithoutPassword.userName}} </li>
+                    <li><b>Email:</b> {{item.userWithoutPassword.email}}</li>
+                    <li><b>HoursForProject:</b> [{item.hoursForProject}}</li>
+                    <li><b>SumHoursDone:</b> {{item.sumHoursDone}}</li>
+                </ul> -->
+            </div>
+        </div> 
+</div>
