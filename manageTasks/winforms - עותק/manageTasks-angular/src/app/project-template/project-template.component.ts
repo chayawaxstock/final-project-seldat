@@ -16,6 +16,7 @@ export class ProjectTemplateComponent implements OnInit {
   constructor(public managerService:ManagerService,public router:Router) { }
 
   ngOnInit() {
+
   }
 
   addWorkerToProject()

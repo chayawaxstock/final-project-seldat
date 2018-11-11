@@ -132,8 +132,8 @@ namespace BLL
 
             string query = $"INSERT INTO `managertasks`.`project`(`numHour`,`name`,`dateBegin`,`dateEnd`,`isFinish`,`customerName`,`managerId`) VALUES({project.numHourForProject},'{project.ProjectName}','{dateBegin}','{dateEnd}',{IsFinish},'{project.CustomerName}',{project.IdManager}); ";
             
-            if (DBAccess.RunNonQuery(query)!=null&& DBAccess.RunStore("addProject", project.IdManager)!=null)
-            {
+            //if (DBAccess.RunNonQuery(query)==1&& DBAccess.RunStore("addProject", project.IdManager)!=null)
+            //{
 
             foreach (var item in project.HoursForDepartment)
             {
@@ -142,8 +142,8 @@ namespace BLL
                         
             }
                 return true;
-            }
-            else return false;
+            //}
+            //else return false;
 
         }
 

@@ -15,6 +15,7 @@ import { UserInProjectComponent } from "./user-in-project/user-in-project.compon
 import { AddProjectComponent } from "./add-project/add-project.component";
 import { AllProjectsComponent } from "./all-projects/all-projects.component";
 import { WorkerComponent } from "./worker/worker.component";
+import { TeamLeaderComponent } from "./team-leader/team-leader.component";
 
 
 
@@ -34,6 +35,7 @@ const appRoutes: Routes = [
            {path:'allProjects',component: AllProjectsComponent}
      ]},
      {path:'worker',component: WorkerComponent},
+     {path:'teamLeader',component: TeamLeaderComponent},
     // {path:'teamLeader',component: TeamLeaderComponent,canActivate:[AuthGuard]},
   
 

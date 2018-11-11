@@ -23,6 +23,7 @@ export class AddProjectComponent implements OnInit {
 
   teamLeaders: User[]=[];
   departments: DepartmentUser[]=[];
+  departmentsHours: Int32Array[];;
  // types:string[]=["text","text","datetime","datetime","number","","",""]
 
   constructor(public managerService:ManagerService,public userService: UserService,public router:Router) {
@@ -34,19 +35,23 @@ export class AddProjectComponent implements OnInit {
       numHourForProject: new FormControl("",createValidatorNumber("numHourForProject", 1, 20000)),
       idManager: new FormControl(""),
       hoursForDepartment:new FormControl(),
+     
       
     };
+    this.departmentsHours = new Array(Number(4));
     this.formGroup = new FormGroup(formGroupConfig,[validateDateEnd]);
+
    }
 
   ngOnInit() {
   
     this.userService.getAllDepartments().subscribe(departments=>{
-       this.departments=departments;
+       this.departments=departments.filter(x=>x.id>2);
       console.log(this.departments);
     });
 
     this.managerService.getUsersByDepartment("teamLeader").subscribe(res=>{
+     
       console.log(res);
       this.teamLeaders=res;
     },err=>{
@@ -56,6 +61,7 @@ export class AddProjectComponent implements OnInit {
   }
   
   addProject() {
+    console.log(this.departmentsHours[0])
     console.log(new Date()>this.formGroup['dateBegin']);
       if (this.formGroup.invalid) {
         return;
@@ -69,13 +75,14 @@ export class AddProjectComponent implements OnInit {
         numHour.sumHours=Number(element["hourForDepartment"]);
         numHour.departmentId=element["id"];
         this.project.hoursForDepartment.push(numHour);
-
+        });
         console.log(this.project);
+        
         this.managerService.addProject(this.project).subscribe(res=>{
         this.managerService.subjectProject.next("true");
         alert("succsess");
         },err=>{console.log("succsess")});
-       });     
+           
       }
 
      

@@ -4,6 +4,7 @@ using BOL.Models;
 using BOL.Validations;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
@@ -48,7 +49,7 @@ namespace BOL
         public DateTime DateEnd { get; set; }
 
         public bool IsFinish { get; set; } = false;
-
+        [DefaultValue(1)]
         public int IdManager { get; set; }
 
         public UserWithoutPassword Manager { get; set; }

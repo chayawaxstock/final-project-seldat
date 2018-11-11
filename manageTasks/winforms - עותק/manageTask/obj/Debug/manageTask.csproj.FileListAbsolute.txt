@@ -555,3 +555,6 @@ S:\חני ולדר\manageTasks\winforms - עותק\manageTask\obj\Debug\manageTa
 S:\חני ולדר\manageTasks\winforms - עותק\manageTask\obj\Debug\manageTask.csproj.CopyComplete
 S:\חני ולדר\manageTasks\winforms - עותק\manageTask\obj\Debug\manageTask.exe
 S:\חני ולדר\manageTasks\winforms - עותק\manageTask\obj\Debug\manageTask.pdb
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\winforms - עותק\manageTask\bin\Debug\manageTask.exe.config
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\winforms - עותק\manageTask\obj\Debug\manageTask.exe
+C:\Users\user1\Desktop\final-project-seldat\manageTasks\winforms - עותק\manageTask\obj\Debug\manageTask.pdb

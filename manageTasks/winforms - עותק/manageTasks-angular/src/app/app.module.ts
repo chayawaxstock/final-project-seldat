@@ -67,8 +67,9 @@ import { TasksOfWorkerComponent } from './tasks-of-worker/tasks-of-worker.compon
 import { WorkerProjectTemplateComponent } from './worker-project-template/worker-project-template.component';
 import { ProjectDetailsComponent } from './project-details/project-details.component';
 import { ProjectDetailsTemplateComponent } from './project-details-template/project-details-template.component';
+// import {MatButtonModule, MatCheckboxModule} from '@angular/material';
 
-
+// import{ AngularMeterial}from '~@angular/material/prebuilt-themes/deeppurple-amber.css';
 
 
 @NgModule({
@@ -116,6 +117,8 @@ import { ProjectDetailsTemplateComponent } from './project-details-template/proj
    // MDBBootstrapModule.forRoot(),  // Import app routing module,
    // MatButtonModule, MatCheckboxModule,
     BrowserAnimationsModule,
+// MatButtonModule,
+//      MatCheckboxModule,
    // NgxLoadingModule.forRoot({})
    // MatMenuModule,
    // MatToolbarModule,

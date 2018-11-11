@@ -1,4 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+import { Project } from '../shared/models/project';
+import { ProjectWorker } from '../shared/models/projectWorker';
+import { TeamleaderService } from '../shared/services/teamleader.service';
+import { UserService } from '../shared/services/user.service';
 
 @Component({
   selector: 'app-project-details',
@@ -7,9 +11,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProjectDetailsComponent implements OnInit {
 
-  constructor() { }
+
+  projects:Project[]=[];
+  constructor(public teamLeaderService:TeamleaderService,public userService:UserService) { }
 
   ngOnInit() {
+  this.teamLeaderService.getProjectTeamLeader(this.userService.currentUser.userId).subscribe(res=>{
+  this.projects=res;
+  console.log(this.projects[0]);
+   });
   }
 
 }
