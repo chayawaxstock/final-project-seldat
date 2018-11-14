@@ -20,7 +20,7 @@ namespace manageTask.Validations
             if (dateBegin >= DateTime.Parse(value.ToString()))
             {
                 ErrorMessage = "date end project grate than date begin project";
-                validationResult = new ValidationResult(ErrorMessageString);
+                validationResult = new ValidationResult(ErrorMessageString, new List<string>() { "DateEnd" });
             }
 
             return validationResult;

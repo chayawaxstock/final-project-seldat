@@ -92,6 +92,7 @@
     <Reference Include="Telerik.WinControls.Themes.Aqua, Version=2018.3.1016.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
     <Reference Include="Telerik.WinControls.Themes.Breeze, Version=2018.3.1016.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
     <Reference Include="Telerik.WinControls.Themes.Crystal, Version=2018.3.1016.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Desert, Version=2018.3.1016.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
     <Reference Include="Telerik.WinControls.Themes.Fluent, Version=2018.3.1016.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
     <Reference Include="Telerik.WinControls.Themes.FluentDark, Version=2018.3.1016.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
     <Reference Include="Telerik.WinControls.Themes.Material, Version=2018.3.1016.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
@@ -280,7 +281,6 @@
     </Compile>
     <Compile Include="Validations\UniqueEmailAttribute.cs" />
     <Compile Include="Validations\UniquePasswordAttribute.cs" />
-    <Compile Include="Validations\UniqueProjectNameAttribute.cs" />
     <Compile Include="Validations\ValidDateTimeBeginAttribute.cs" />
     <Compile Include="Validations\ValidDateTimeEndAttribute.cs" />
     <EmbeddedResource Include="AddProject.resx">

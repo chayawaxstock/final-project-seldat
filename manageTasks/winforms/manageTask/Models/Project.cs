@@ -23,7 +23,6 @@ namespace manageTask.Models
 
         [Required(ErrorMessage = "Name is required")]
         [MaxLength(15, ErrorMessage = "ProjectName grade than 15 chars"), MinLength(2, ErrorMessage = "ProjectName less than 2 chars")]
-        [UniqueProjectName]
         public string ProjectName { get; set; }
 
         [Required(ErrorMessage = "CustomerName is required")]
@@ -49,6 +48,7 @@ namespace manageTask.Models
         public int IdManager { get; set; }
 
         public User Manager { get; set; }
+
         public List<HourForDepartment> HoursForDepartment { get; set; }
 
         public List<PresentDay> PresentsDayUser { get; set; }

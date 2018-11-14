@@ -14,7 +14,7 @@ namespace manageTask.Validations
             ValidationResult validationResult = ValidationResult.Success;
             if (DateTime.Parse(value.ToString()) >= DateTime.Now)
                 return null;
-            return new ValidationResult("date begin project less than today");
+            return new ValidationResult("date begin project less than today",new List<string>() { "DateBegin"});
         }
 
     }
