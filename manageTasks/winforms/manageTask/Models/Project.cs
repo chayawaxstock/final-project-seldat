@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace manageTask.Models
 {
+    
     public class Project
     {
 
@@ -49,6 +50,7 @@ namespace manageTask.Models
 
         public User Manager { get; set; }
 
+        [ValidSumHourDepartment]
         public List<HourForDepartment> HoursForDepartment { get; set; }
 
         public List<PresentDay> PresentsDayUser { get; set; }

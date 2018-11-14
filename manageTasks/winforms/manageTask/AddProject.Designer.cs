@@ -58,6 +58,9 @@ namespace manageTask
             this.crystalTheme2 = new Telerik.WinControls.Themes.CrystalTheme();
             this.object_f11cc8fa_1117_4998_83da_e54637316c36 = new Telerik.WinControls.RootRadElement();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.dotsRingWaitingBarIndicatorElement1 = new Telerik.WinControls.UI.DotsRingWaitingBarIndicatorElement();
+            this.radWaitingBar1 = new Telerik.WinControls.UI.RadWaitingBar();
+            this.dotsRingWaitingBarIndicatorElement2 = new Telerik.WinControls.UI.DotsRingWaitingBarIndicatorElement();
             ((System.ComponentModel.ISupportInitialize)(this.gb_addProject)).BeginInit();
             this.gb_addProject.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txt_numHourForProject)).BeginInit();
@@ -83,12 +86,14 @@ namespace manageTask
             ((System.ComponentModel.ISupportInitialize)(this.txt_ProjectName)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lbl_name)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radWaitingBar1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this)).BeginInit();
             this.SuspendLayout();
             // 
             // gb_addProject
             // 
             this.gb_addProject.AccessibleRole = System.Windows.Forms.AccessibleRole.Grouping;
+            this.gb_addProject.Controls.Add(this.radWaitingBar1);
             this.gb_addProject.Controls.Add(this.cmbx_team_leader);
             this.gb_addProject.Controls.Add(this.txt_numHourForProject);
             this.gb_addProject.Controls.Add(this.groupBox4);
@@ -270,7 +275,7 @@ namespace manageTask
             this.txt_DateBegin.TabStop = false;
             this.txt_DateBegin.Text = "ιεν ωπι 05 πεαξαψ 2018";
             this.txt_DateBegin.ThemeName = "MaterialTeal";
-            this.txt_DateBegin.Value = new System.DateTime(2018, 11, 5, 12, 20, 10, 458);
+            this.txt_DateBegin.Value = new System.DateTime(2018, 11, 5, 0, 0, 0, 0);
             ((Telerik.WinControls.UI.RadDateTimePickerElement)(this.txt_DateBegin.GetChildAt(0))).CalendarSize = new System.Drawing.Size(290, 320);
             ((Telerik.WinControls.UI.RadMaskedEditBoxElement)(this.txt_DateBegin.GetChildAt(0).GetChildAt(2).GetChildAt(1))).Text = "ιεν ωπι 05 πεαξαψ 2018";
             ((Telerik.WinControls.UI.LightVisualButtonElement)(this.txt_DateBegin.GetChildAt(0).GetChildAt(2).GetChildAt(1).GetChildAt(3).GetChildAt(0))).Visibility = Telerik.WinControls.ElementVisibility.Collapsed;
@@ -365,6 +370,38 @@ namespace manageTask
             // 
             this.errorProvider1.ContainerControl = this;
             // 
+            // dotsRingWaitingBarIndicatorElement1
+            // 
+            this.dotsRingWaitingBarIndicatorElement1.ElementColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(136)))));
+            this.dotsRingWaitingBarIndicatorElement1.Name = "dotsRingWaitingBarIndicatorElement1";
+            this.dotsRingWaitingBarIndicatorElement1.Click += new System.EventHandler(this.dotsRingWaitingBarIndicatorElement1_Click);
+            // 
+            // radWaitingBar1
+            // 
+            this.radWaitingBar1.BackColor = System.Drawing.Color.Transparent;
+            this.radWaitingBar1.Location = new System.Drawing.Point(158, 133);
+            this.radWaitingBar1.Name = "radWaitingBar1";
+            this.radWaitingBar1.Size = new System.Drawing.Size(267, 244);
+            this.radWaitingBar1.TabIndex = 17;
+            this.radWaitingBar1.Text = "radWaitingBar1";
+            this.radWaitingBar1.ThemeName = "MaterialTeal";
+            this.radWaitingBar1.WaitingIndicators.Add(this.dotsRingWaitingBarIndicatorElement2);
+            this.radWaitingBar1.WaitingIndicatorSize = new System.Drawing.Size(100, 14);
+            this.radWaitingBar1.WaitingSpeed = 50;
+            this.radWaitingBar1.WaitingStyle = Telerik.WinControls.Enumerations.WaitingBarStyles.DotsRing;
+            // 
+            // dotsRingWaitingBarIndicatorElement2
+            // 
+            this.dotsRingWaitingBarIndicatorElement2.BackColor = System.Drawing.Color.Transparent;
+            this.dotsRingWaitingBarIndicatorElement2.BackColor2 = System.Drawing.Color.Transparent;
+            this.dotsRingWaitingBarIndicatorElement2.BackColor3 = System.Drawing.Color.Transparent;
+            this.dotsRingWaitingBarIndicatorElement2.BackColor4 = System.Drawing.Color.Transparent;
+            this.dotsRingWaitingBarIndicatorElement2.BorderBottomColor = System.Drawing.Color.Transparent;
+            this.dotsRingWaitingBarIndicatorElement2.BorderHighlightColor = System.Drawing.Color.Transparent;
+            this.dotsRingWaitingBarIndicatorElement2.ElementColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(136)))));
+            this.dotsRingWaitingBarIndicatorElement2.Font = new System.Drawing.Font("Segoe UI", 36F);
+            this.dotsRingWaitingBarIndicatorElement2.Name = "dotsRingWaitingBarIndicatorElement2";
+            // 
             // AddProject
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -408,6 +445,7 @@ namespace manageTask
             ((System.ComponentModel.ISupportInitialize)(this.txt_ProjectName)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lbl_name)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radWaitingBar1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this)).EndInit();
             this.ResumeLayout(false);
 
@@ -446,5 +484,9 @@ namespace manageTask
         private Telerik.WinControls.Themes.CrystalTheme crystalTheme2;
         private Telerik.WinControls.RootRadElement object_f11cc8fa_1117_4998_83da_e54637316c36;
         private System.Windows.Forms.ErrorProvider errorProvider1;
+      
+        private Telerik.WinControls.UI.DotsRingWaitingBarIndicatorElement dotsRingWaitingBarIndicatorElement1;
+        private Telerik.WinControls.UI.RadWaitingBar radWaitingBar1;
+        private Telerik.WinControls.UI.DotsRingWaitingBarIndicatorElement dotsRingWaitingBarIndicatorElement2;
     }
 }

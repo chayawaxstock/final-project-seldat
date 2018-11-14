@@ -198,6 +198,7 @@
     </Compile>
     <Compile Include="HelpModel\ProjectWithHoursForUser.cs" />
     <Compile Include="HelpModel\SendEmail.cs" />
+    <Compile Include="Logic\ModelState.cs" />
     <Compile Include="Logic\PresentDayRequests.cs" />
     <Compile Include="Logic\ProjectRequest.cs" />
     <Compile Include="Logic\TaskRequests.cs" />
@@ -283,6 +284,7 @@
     <Compile Include="Validations\UniquePasswordAttribute.cs" />
     <Compile Include="Validations\ValidDateTimeBeginAttribute.cs" />
     <Compile Include="Validations\ValidDateTimeEndAttribute.cs" />
+    <Compile Include="Validations\ValidSumHourDepartmentAttribute.cs" />
     <EmbeddedResource Include="AddProject.resx">
       <DependentUpon>AddProject.cs</DependentUpon>
     </EmbeddedResource>

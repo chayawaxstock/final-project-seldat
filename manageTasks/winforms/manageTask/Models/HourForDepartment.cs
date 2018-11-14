@@ -9,22 +9,17 @@ namespace manageTask.Models
 {
     public class HourForDepartment
     {
-        //TODO:VALIDATION SUM HOURS LESS
-
-
         [Required(ErrorMessage = "ProjectId is required")]
         public int ProjectId { get; set; }
-
 
         [Required(ErrorMessage = "DepartmentId is required")]
         public int DepartmentId { get; set; }
 
         [Range(0, int.MaxValue, ErrorMessage = "Sum hours must be more than 0 hours")]
-        public int SumHours { get; set; }
+        public int SumHours { get; set; } = 0;
         public Project project { get; set; }
 
         public DepartmentUser DepartmentUser { get; set; }
-
 
     }
 }

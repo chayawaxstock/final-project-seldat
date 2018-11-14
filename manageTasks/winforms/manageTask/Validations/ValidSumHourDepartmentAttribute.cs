@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace manageTask.Validations
 {
-   public class ValidSumHourDepartmentAtribute : ValidationAttribute
+   public class ValidSumHourDepartmentAttribute : ValidationAttribute
     {
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)
         {
@@ -18,7 +18,7 @@ namespace manageTask.Validations
             decimal hours = (value as List<HourForDepartment>).Sum(p=>p.SumHours);
             if ((validationContext.ObjectInstance as Project).numHourForProject>=hours)
                  return null;
-            return new ValidationResult("date begin project less than today", new List<string>() { "DateBegin" });
+            return new ValidationResult("sum hours departments greater than hours for project", new List<string>() { "ux" });
         }
     }
 }
